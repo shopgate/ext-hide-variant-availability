@@ -1,0 +1,1 @@
+# ext-hide-variant-availability
