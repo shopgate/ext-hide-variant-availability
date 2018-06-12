@@ -5,7 +5,7 @@
     {
       "id": "VariantSelectsAvailability",
       "type": "portals",
-      "path": "frontend/components/VariantSelectsAvailability",
+      "path": "frontend/VariantSelectsAvailability",
       "target": "product.variant-select.picker.availability"
     }
   ],
