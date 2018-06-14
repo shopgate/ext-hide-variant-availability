@@ -1,6 +1,6 @@
 {
   "name": "@shopgate/hide-variant-availability",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Hides the availability info for variants on product detail page picker",
   "main": "index.js",
   "license": "Apache-2.0",

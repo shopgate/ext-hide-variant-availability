@@ -1,9 +1,14 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "id": "@shopgate/hide-variant-availability",
   "components": [
+    {
+      "id": "VariantSelectsAvailability",
+      "type": "portals",
+      "path": "frontend/VariantSelectsAvailability",
+      "target": "product.variant-select.picker.availability"
+    }
   ],
   "configuration": {
-
   }
 }
